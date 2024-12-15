@@ -1,0 +1,17 @@
+site_name: Multiple Sclerose (MS)
+
+nav:
+  - Home: index.md
+  - Informatie:
+    - Prevalentie: prevalentie.md
+    - Diagnose: diagnose.md
+
+  - Pathologie: 
+    - Verschillende vormen: vormen.md
+    - Symptomen: symptomen.md
+
+  - Immuunsysteem:
+    - B-lymfocyten: b_cel.md
+    - T-lymfocyten: t_cel.md
+    - Overige celtypen: overig_cel.md
+
