@@ -15,3 +15,7 @@ nav:
     - T-lymfocyten: t_cel.md
     - Overige celtypen: overig_cel.md
 
+plugins:
+  - search
+
+site_dir: site

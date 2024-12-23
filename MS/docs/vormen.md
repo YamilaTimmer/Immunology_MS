@@ -39,6 +39,12 @@ Relapses (ook wel ‘*schub*’, ‘*terugval*’ of ‘*exacerbatie*’) zijn p
 
 Ook moet er tijdens de relapse geen sprake zijn van een externe factor die bestaande symptomen zou kunnen verergeren, zoals koorts of een infectie (buiten het CZS). Als er wel sprake is van (een van) deze externe factoren en de bestaande symptomen hierdoor verergeren, wordt er gesproken van een ‘pseudoschub’. De klachten hierbij zijn tijdelijk en verdwijnen vaak binnen een paar uur tot een paar dagen (MS Research, 2021). 
 
+
+## Clinically isolated syndrome (CIS) 
+
+**Clinically isolated syndrome** (CIS) wordt vaak benoemd als vierde subtype van MS, echter verschilt deze met de andere drie typen, omdat er bij CIS nog géén MS-diagnose gesteld kan worden. Bij CIS komt er één keer een aanval voor. De klachten die hierbij voorkomen komen overeen met MS symptomen en bij 30-70% van de mensen met CIS ontwikkelt het zich uiteindelijk tot MS, vaak is dit relapsing-remitting MS (Nationaal MS Fonds, 2021).  
+
+
 # Bronnen
 Hosny, H. S., Shehata, H. S., Ahmed, S., Ramadan, I., Abdo, S. S., & Fouad, A. M. (2023). Predictors of severity and outcome of multiple sclerosis relapses. _BMC neurology_, _23_(1), 67. https://doi.org/10.1186/s12883-023-03109-6  
 
