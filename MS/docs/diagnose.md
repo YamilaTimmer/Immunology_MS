@@ -7,7 +7,7 @@ De McDonald criteria bestaat uit 2 globale punten waaraan de patiënt moet voldo
 - Er hebben zich meerdere episodes (of '[schubs](vormen.md/#relapses)') van lichamelijke klachten voorgedaan (= spreiding in tijd)
 - De episodes van lichamelijke klachten zijn van minimaal twee verschillende plaatsen afkomstig in de hersenen, het ruggenmerg of de oogzenuw (= spreiding in plaats)
 
-Bij het voldoen aan de criteria kan de diagnose MS worden gesteld. Met de McDonald criteria is het makkelijker om de diagnose [Relapsing Remitting MS](/vormen.md/#Verschillende-vormen) (RRMS) te stellen, vanwege de duidelijke episoden die zich voordoen. Bij het diagnosticeren van primair progressief MS (PPMS) worden de criteria anders toegepast vanwege het ontbreken van duidelijke episoden (Amsterdam UMC, 2018).
+Bij het voldoen aan de criteria kan de diagnose MS worden gesteld. Met de McDonald criteria is het makkelijker om de diagnose [Relapsing Remitting MS](vormen.md/#Verschillende-vormen) (RRMS) te stellen, vanwege de duidelijke episoden die zich voordoen. Bij het diagnosticeren van primair progressief MS (PPMS) worden de criteria anders toegepast vanwege het ontbreken van duidelijke episoden (Amsterdam UMC, 2018).
 ___________________________________________________________________
 ## Eerste onderzoek 
 
