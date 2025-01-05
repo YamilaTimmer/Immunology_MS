@@ -3,19 +3,25 @@ site_name: Multiple Sclerose (MS)
 nav:
   - Home: index.md
   - Informatie:
-    - Prevalentie: prevalentie.md
-    - Diagnose: diagnose.md
+    - Het gezonde zenuwstelsel: gezonde_zenuwstelsel.md
+    - Wat is MS?: MS.md
 
   - Pathologie: 
     - Verschillende vormen: vormen.md
     - Symptomen: symptomen.md
+    - Diagnose: diagnose.md
+    - Behandeling: behandeling.md
 
   - Immuunsysteem:
-    - B-lymfocyten: b_cel.md
-    - T-lymfocyten: t_cel.md
+    - B-lymfocyten: b_lymfocyten.md
+    - T-lymfocyten: t_lymfocyten.md
     - Overige celtypen: overig_cel.md
+
 
 plugins:
   - search
 
 site_dir: site
+
+
+  

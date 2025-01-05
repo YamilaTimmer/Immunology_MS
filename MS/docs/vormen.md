@@ -46,10 +46,7 @@ Ook moet er tijdens de relapse geen sprake zijn van een externe factor die besta
 
 
 # Bronnen
-Hosny, H. S., Shehata, H. S., Ahmed, S., Ramadan, I., Abdo, S. S., & Fouad, A. M. (2023). Predictors of severity and outcome of multiple sclerosis relapses. _BMC neurology_, _23_(1), 67. https://doi.org/10.1186/s12883-023-03109-6  
-
-MS Research. (2021, 6 mei). Wat is het ziekte verloop van MS? - Stichting MS Research. https://msresearch.nl/over-ms-ziekte/ms-ziekte-verloop/ 
-
-MS Research. (2024, 6 februari). Wie krijgen multiple sclerose (MS)? - Stichting MS Research. https://msresearch.nl/over-ms-ziekte/patient/ 
-
-Nationaal MS Fonds. (2021, 5 oktober). Vormen van MS - Nationaal MS Fonds. https://nationaalmsfonds.nl/wat-is-ms/vormen-van-ms/#:~:text=Naast%20de%20verschillende%20klachten%20die,vorm%20kent%20een%20eigen%20ziektebeeld.  
+- Hosny, H. S., Shehata, H. S., Ahmed, S., Ramadan, I., Abdo, S. S., & Fouad, A. M. (2023). Predictors of severity and outcome of multiple sclerosis relapses. _BMC neurology_, _23_(1), 67. [https://doi.org/10.1186/s12883-023-03109-6](https://doi.org/10.1186/s12883-023-03109-6)
+- MS Research. (2021, 6 mei). Wat is het ziekte verloop van MS? - Stichting MS Research. [https://msresearch.nl/over-ms-ziekte/ms-ziekte-verloop/](https://msresearch.nl/over-ms-ziekte/ms-ziekte-verloop/ )
+- MS Research. (2024, 6 februari). Wie krijgen multiple sclerose (MS)? - Stichting MS Research. [https://msresearch.nl/over-ms-ziekte/patient/](https://msresearch.nl/over-ms-ziekte/patient/)
+- Nationaal MS Fonds. (2021, 5 oktober). Vormen van MS - Nationaal MS Fonds. [https://nationaalmsfonds.nl/wat-is-ms/vormen-van-ms/#:~:text=Naast%20de%20verschillende%20klachten%20die,vorm%20kent%20een%20eigen%20ziektebeeld](https://nationaalmsfonds.nl/wat-is-ms/vormen-van-ms/#:~:text=Naast%20de%20verschillende%20klachten%20die,vorm%20kent%20een%20eigen%20ziektebeeld).  
