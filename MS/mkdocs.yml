@@ -6,7 +6,7 @@ nav:
     - Het gezonde zenuwstelsel: gezonde_zenuwstelsel.md
     - Wat is MS?: MS.md
 
-  - Pathologie: 
+  - Ziektebeeld: 
     - Verschillende vormen: vormen.md
     - Symptomen: symptomen.md
     - Diagnose: diagnose.md
@@ -17,11 +17,9 @@ nav:
     - T-lymfocyten: t_lymfocyten.md
     - Overige celtypen: overig_cel.md
 
-
 plugins:
   - search
 
 site_dir: site
-
 
   
